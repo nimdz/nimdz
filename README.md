@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @nimdz
+- 👋 Hi, I’m Nimsara From Srilanka.
 - 👀 I’m interested in datascience.
-- 🌱 I’m currently learning computer science at university of colombo.
+- 🌱 I’m currently learning Computer Science at University Of Colombo.
+
 
 <!---
 nimdz/nimdz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
