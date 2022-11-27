@@ -20,8 +20,8 @@ You can click the Preview link to take a look at your changes.
 ----
 ###  :man_technologist: About Me :
 
-- 👋 Hi, I’m Nimsara From Srilanka.
-- 👀 I’m interested in datascience.
+- 👋 Hi, I’m Nimsara From Sri Lanka.
+- 👀 I’m interested in DataScience & Programming.
 - 🌱 I’m currently learning Computer Science at University Of Colombo.
 
 ---
@@ -48,5 +48,13 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ---
+
+---
+
+### :fire: My Stats :
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimdz&layout=compact&theme=vision-friendly-dark)](https://github.com/nimdz/github-readme-stats)
+
 
 
