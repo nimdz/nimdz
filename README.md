@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m Nimsara From Sri Lanka.
 - 👀 I’m interested in DataScience & Programming.
 - 🌱 I’m currently learning Computer Science at University Of Colombo.
-- 🔥 My Hobbies are playing 💻 games.
+- 🔥 My Hobby is reading 📕 .
 
 ---
 
