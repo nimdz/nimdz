@@ -57,7 +57,6 @@ You can click the Preview link to take a look at your changes.
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimdz&layout=compact&theme=vision-friendly-dark)](https://github.com/nimdz/github-readme-stats)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nimdz&show_icons=true&theme=radical)
 
 
