@@ -67,6 +67,3 @@ You can click the Preview link to take a look at your changes.
 ### Most Used Languages :
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimdz&layout=compact&theme=blue-green)
 
-###  Profile Views:
-  ![Profile views](https://gpvc.arturio.dev/[nimdz])
-
