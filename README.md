@@ -16,6 +16,9 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+<img align="right" src="https://raw.githubusercontent.com/Aoihara/Aoihara/master/git.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimdz&label=Profile%20views&color=0e75b6&style=flat" alt="Nimsara De Zoysa" /> </p>
 
 ----
 ✌️ About Me :
@@ -26,6 +29,7 @@ You can click the Preview link to take a look at your changes.
 - 🇱🇰 
 
 ---
+
 
 👉 Languages and Tools :
 
