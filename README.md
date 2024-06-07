@@ -16,9 +16,12 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+<img align="right" src="https://raw.githubusercontent.com/Aoihara/Aoihara/master/git.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimdz&label=Profile%20views&color=0e75b6&style=flat" alt="Nimsara De Zoysa" /> </p>
 
 ----
-###  :man_technologist: About Me :
+✌️ About Me :
 
 - 👋 Hi, I’m Nimsara From Sri Lanka.
 - 👀 I’m interested in DataScience & Programming.
@@ -27,7 +30,8 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+
+👉 Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -55,15 +59,19 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### :fire: My Stats :
+🔥  My Stats :
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nimdz&show_icons=true&theme=radical)
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/USERNAME.svg)](https://user-badge.committers.top/sri_lanka/USERNAME)
 
 
-### :fire: My Streak :
+
+ 🔥  My Streak :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nimdz&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-### Most Used Languages :
+👇 :
+
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimdz&layout=compact&theme=blue-green)
+
 
