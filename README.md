@@ -62,6 +62,8 @@ You can click the Preview link to take a look at your changes.
 🔥  My Stats :
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nimdz&show_icons=true&theme=radical)
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/USERNAME.svg)](https://user-badge.committers.top/sri_lanka/USERNAME)
+
 
 
 
