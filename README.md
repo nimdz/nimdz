@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 ✌️ About Me :
 
 - 👋 Hi, I’m Nimsara From Sri Lanka.
-- 👀 I’m interested in DataScience & Programming.
+- 👀 I’m interested in DataScience & Machine Learning.
 - 🌱 I’m currently learning Computer Science at University Of Colombo.
 - 🇱🇰 
 
